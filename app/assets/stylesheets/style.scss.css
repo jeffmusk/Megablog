@@ -1,0 +1,62 @@
+a:visited{
+color: inherit;	
+}
+a:link   
+{   
+ text-decoration:none;   
+}   
+.no-margin{
+	margin: 0px;
+}
+
+
+.be-black{
+background-color: black;
+font-family: 'Bitter', serif;
+font-size: 16px;
+}
+
+.white{
+	color: #F7E9C2;
+}
+.large-padding{
+	padding: 11px 8px
+} 
+.lpequena{
+
+}
+.field,.top-space{
+	margin-top: 1em;
+}
+.form-control{
+	border: none;
+	border-bottom: 1px solid;
+	outline: none;
+	width: 100%;
+	display: block;
+	padding: 10px 0px;
+	font-size: 1.2em;
+}
+.btn{
+	
+	border: none;
+	outline: none;
+	text-transform: uppercase;
+	cursor: pointer;
+	background-color: #F7E9C2;
+	font-size: 1.5em;
+	color: white;
+}
+
+.text-left{
+	text-align: left;
+}
+/* 
+font-family: 'Open Sans', sans-serif;
+font-family: 'Lato', sans-serif; 
+font-family: 'Indie Flower', cursive;
+font-family: 'Bitter', serif;
+font-family: 'Pacifico', cursive;
+font-family: 'Righteous', cursive;
+COLOR :F7E9C2;
+*/
