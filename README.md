@@ -1,2 +1,2 @@
 # Megablog
-Codigo facilito rails
+Blog creado en rubi on rails  cons istema CRUD y Sistema de autenticacion
